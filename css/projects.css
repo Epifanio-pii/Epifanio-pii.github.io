@@ -1,0 +1,115 @@
+@import url("css/generalStyle.css");
+
+
+@media (max-width: 820px) {
+    .nav-container {
+        z-index: 100;
+        padding: 0.75em;
+        width: 100vw;
+        display: flex;
+        position: fixed;
+        background-color: #fff;
+    } 
+}
+
+
+.project-img img{
+    min-width: 250px;
+    object-fit: contain;
+    margin-bottom: 2em;
+}
+
+
+.project-content{
+    display: flex; 
+    flex-direction: column-reverse;
+    padding: 1.5em;
+    margin: 0 auto;
+}
+
+@media (min-width: 821px){
+    .project-img {
+        max-width: 960px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 8em;
+    }
+
+    .project-content{
+        max-width: 960px;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .artDetails{
+        width: 28%;
+    }
+    .artDescription{
+        width: 75%;
+    }
+}
+
+.info-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+    text-align: left;
+}
+
+ .info-res  {
+    font-weight: 300;
+    font-size: 0.9rem;
+    margin-bottom: 0.65em;
+    color: #6a6969;
+    text-align: left;
+} 
+
+.artDetails{
+    margin-top: 2em;
+}
+
+.artDescription .title {
+    margin-top: -5px;
+    margin-bottom: 1.25rem;
+}
+
+.artDescription .title h3 {
+    font-weight: 700;
+    font-size: 1.7rem;
+}
+
+.artDescription .title span {
+    color: #404040;
+    font-size: 0.75rem;
+    font-weight: 300;
+}
+
+.artDescription .brief p {
+    font-weight: var( --weight_paragraph_mobile);
+    font-size: var(--mobile_paragraph);
+    line-height: 26px;
+    margin-bottom: 15px;
+    color: #333;
+    text-align: justify;   
+}
+
+/* 
+@media (max-width: 1554px){
+    .project-content{
+        width: 60%;
+        flex-direction: column-reverse;
+    }
+    .box2{
+        display: block;
+        flex-direction: row;
+    }
+    .info-title, .info-res{
+        height: fit-content;
+        margin: 8px 0;
+    }
+    .artDescription{
+        width: 100%;
+    }
+
+    .artDescription .brief p{
+        font-size: calc(16px- 40%);
+    }
+} */

@@ -1,0 +1,66 @@
+{
+    "sample":[
+      {
+        "author": "Epifânio Tomás",
+        "date": "04 Março 2025",
+        "skills": "Edition",
+        "title":"Retro Design",
+        "category": "Photoshop",
+        "url":"mygallery/1.png",
+        "description": "Este projeto foi feito no Photoshop, aplicando o efeito de blur e granulado para criar uma sensação de profundidade e textura visual.O efeito de blur foi utilizado para dar uma ideia de movimento 'fantasma', criando a ilusão de algo que está se movendo rapidamente ou desaparecendo. Esse efeito traz uma sensação etérea e efêmera, como se as formas estivessem prestes a se desfazer ou atravessar o espaço de forma intangível"
+      },
+      {
+        "author": "Epifânio Tomás",
+        "date": "18 Dezembro 2024",
+        "skills": "Edition",
+        "title":"The portrait",
+        "category": "Photoshop",
+        "url":"mygallery/2.png",
+        "description": "Criado com Photoshop, aplicando máscaras, desenvolveu-se este trabalho irónico, que explora a dualidade entre o visível e o oculto. O fundo preto profundo cria uma atmosfera de mistério, destacando a imagem da moça posicionada no centro. Ela é o ponto de foco da composição, mas a atenção do espectador é guiada de forma sutil para a 'nuvem de cor' que envolve seu rosto, criando uma aura etérea e imprevisível ao redor da figura. Essa 'nuvem', com tons vibrantes, interrompe a escuridão e adiciona uma camada de surrealismo à cena, contrastando com a seriedade e o enigma que o fundo preto sugere."
+
+      },
+      {
+        "author": "Epifânio Tomás",
+        "date": "15 Agosto 2024",
+        "skills": "Edition",
+        "title":"The portal",
+        "category": "Firefly, Express",
+        "url":"mygallery/7.png",
+        "description": "O projeto foi criado utilizando o Adobe Express e o Firefly, com a ideia principal de desenvolver um cartaz para um filme de horror/terror. A composição visual foi cuidadosamente pensada para transmitir uma sensação imediata de suspense e tensão, elementos essenciais desse gênero cinematográfico"
+       
+      },
+      {
+        "author": "Epifânio Tomás",
+        "date": "27 Janeiro 2025",
+        "skills": "Design",
+        "title":"Logo",
+        "category": "Illustrator",
+        "url":"mygallery/3.png",
+        "description": "O logo foi criado exclusivamente para uma produtora musical, utilizando o Illustrator, com o objetivo de transmitir a essência da marca de maneira simples e impactante. A composição do logo é centrada em um símbolo minimalista que faz referência à cabeça de uma guitarra, representando diretamente a conexão da produtora com o universo da música. O design da guitarra foi estilizado de forma elegante e moderna, mantendo o formato essencial e reconhecível, enquanto transmite uma sensação de sofisticação e criatividade"
+       
+
+      },
+      {
+        "author": "Epifânio Tomás",
+        "date": "15 Agosto 2024",
+        "skills": "Edition",
+        "title":"Game Festival",
+        "category": "Firefly, Express",
+        "url":"mygallery/8.png",
+        "description": "O projeto foi criado utilizando o Adobe Express e o Firefly, com a ideia principal de desenvolver um cartaz para uma convenção de jogos. A composição visual foi cuidadosamente pensada para transmitir uma sensação de diversão e euforia, capturando a energia vibrante e dinâmica do evento. A utilização de cores vibrantes e contrastantes, juntamente com elementos gráficos inspirados no universo dos jogos, cria um ambiente visual que convida o espectador a se envolver na atmosfera de entusiasmo e emoção da convenção."
+      },
+
+      {
+        "author": "Epifânio Tomás",
+        "date": "28 Novembro 2024",
+        "skills": "Design",
+        "title":"Bart Simpson",
+        "category": "Illustrator",
+        "url":"mygallery/4.png",
+        "description": "O redesenho da personagem carismática dos Simpsons foi feito com o Illustrator, mantendo a essência do Bart Simpson, mas com um toque moderno e estilizado. A versão principal do personagem preserva os contornos clássicos e as cores vibrantes, enquanto diferentes variações de cores foram exploradas para oferecer uma paleta mais diversificada, criando novas interpretações visuais sem perder a identidade do personagem. As mudanças de cor vão desde tons mais suaves e pastéis até combinações mais ousadas, proporcionando uma visão mais criativa e dinâmica da figura de Bart."
+      }
+      
+      
+    ]
+  
+  }
