@@ -81,6 +81,7 @@ header {
   .nav-container {
         z-index: 100;
         padding: 0.75em;
+        padding-top: 30px;
         width: 100vw;
         position: fixed;
         justify-content: space-around;
@@ -159,6 +160,7 @@ header {
 
 .nav-container {
     width: 80vw;
+    padding-top: 5em;
     margin: 0 auto;
     display: block;
     position: relative;
@@ -167,10 +169,11 @@ header {
 
 .logo a img {
     position: absolute;
-    width: 200px;
+    width: 150px;
     max-width: 100%;
     min-width: 50px;
-    top: 12px;
+    top: 30px;
+    left: -30px;
 }
     
 .nav-container .hamburger-lines {
@@ -178,8 +181,8 @@ header {
     height: 25px;
     width: 32px;
     position: absolute;
-    top: 17px;
-    right: 1em;
+    top: 30px;
+    right: 0;
     z-index: 2;
     display: flex;
     flex-direction: column;
