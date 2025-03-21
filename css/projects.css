@@ -1,7 +1,7 @@
 @import url("css/generalStyle.css");
 
 
-@media (max-width: 820px) {
+/*@media (max-width: 820px) {
     .nav-container {
         z-index: 100;
         padding: 0.75em;
@@ -10,7 +10,7 @@
         position: fixed;
         background-color: #fff;
     } 
-}
+}*/
 
 
 .project-img img{
